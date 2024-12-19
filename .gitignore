@@ -1,0 +1,31 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Environment files
+.env
+.venv/
+venv/
+
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+
+
+# Ignore dataset or any large data files
+data/
+*.csv
+*.xlsx
+
+# Logs and runtime files
+*.log
+*.out
+*.err
+*.pid
+
+# Other files that are OS-specific
+.DS_Store
+Thumbs.db
+
