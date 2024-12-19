@@ -12,7 +12,7 @@ pip install -r requirements.txt
 
 
 ### Start the server
-uvicorn app:app --reload --port 8000
+uvicorn main:app --reload --port 8000
 
 ### Access application in Browser
 localhost:8000
