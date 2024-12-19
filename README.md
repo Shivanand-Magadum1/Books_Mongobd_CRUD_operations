@@ -1,4 +1,4 @@
-# CRUD Operations Using MongoDB and FastAPI
+# CRUD operations for books using FastAPI and MongoDB
 
 
 ### create virtual environment
